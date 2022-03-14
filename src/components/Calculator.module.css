@@ -1,0 +1,35 @@
+table,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+button {
+  width: 100%;
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  outline: inherit;
+  cursor: pointer;
+}
+
+.calculator {
+  width: 100%;
+  height: auto;
+  font-size: 10rem;
+}
+
+.calculator__result {
+  text-align: right;
+  background-color: #858693;
+  color: white;
+}
+
+.calculator__button__orange {
+  background-color: #f5913e;
+}
+
+.calculator__button__grey {
+  background-color: #e0e0e0;
+}
