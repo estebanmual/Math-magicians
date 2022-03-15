@@ -1,56 +1,29 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://wakatime.com/badge/user/be79098d-c59e-407c-8952-0f274bb9e265/project/6bd587fd-4c43-43cb-af08-b1d2cd803771.svg)
 
-# Project Name
+# Math Magicians 
 
-> Description the project.
-
+> Inside this project you will find a functional calculator that will help you in doing simple math operations.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
+- Css
+- React
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://estebanmual.github.io/Math-magicians/build)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+[Live Demo Link](https://estebanmual.github.io/Math-magicians/build
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Esteban Munoz**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@estebanmual](https://github.com/estebanmual)
+- Twitter: [@estebanmual](https://twitter.com/estebanmual)
+- Instagram: [@estebanmual](https://instagram.com/estebanmual)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/estebanmual)
 
 ## 🤝 Contributing
 
