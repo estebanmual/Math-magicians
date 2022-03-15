@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://estebanmual.github.io/Math-magicians/build
+[Live Demo Link](https://estebanmual.github.io/Math-magicians/build)
 
 
 ## Authors
