@@ -16,7 +16,7 @@ button {
 
 .calculator {
   width: 100%;
-  height: auto;
+  height: 30rem;
   font-size: 10rem;
 }
 
@@ -24,6 +24,7 @@ button {
   text-align: right;
   background-color: #858693;
   color: white;
+  padding-right: 1rem;
 }
 
 .calculator__button__orange {

@@ -1,0 +1,12 @@
+.home {
+  padding: 0 1rem;
+}
+
+.home__title {
+  font-size: 4rem;
+}
+
+.home__text {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
