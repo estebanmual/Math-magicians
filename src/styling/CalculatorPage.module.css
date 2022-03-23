@@ -1,0 +1,16 @@
+.CalculatorPage {
+  margin: 0 1rem;
+  display: flex;
+  max-width: 100%;
+  height: auto;
+}
+
+.CalculatorPage__title {
+  font-size: 3rem;
+  width: 50%;
+}
+
+.CalculatorPage__calculator {
+  width: 50%;
+  height: auto;
+}

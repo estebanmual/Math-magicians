@@ -1,0 +1,25 @@
+.navbar {
+  max-width: 100%;
+  height: 5rem;
+  margin: 3rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.navbar__title,
+.navbar__listEl {
+  font-size: 5rem;
+}
+
+.navbar__list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  width: 32%;
+}
+
+.navbar__listEl a {
+  color: blue;
+  text-decoration: underline;
+}

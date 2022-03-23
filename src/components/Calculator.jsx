@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import CalcRow from './CalcRow';
 import calculate from '../logic/calculate';
-import styles from './Calculator.module.css';
+import styles from '../styling/Calculator.module.css';
 
 function Calculator() {
   const keys = [
