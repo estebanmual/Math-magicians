@@ -28,7 +28,7 @@ function Calculator() {
     <table className={styles.calculator}>
       <tbody>
         <tr>
-          <td className={styles.calculator__result} colSpan="4">
+          <td className={styles.calculator__result} data-testid="display" colSpan="4">
             {total}
             {' '}
             {operation}
