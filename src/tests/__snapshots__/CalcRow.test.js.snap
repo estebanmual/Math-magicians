@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there are no items 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <td
+        className="calculator__button__grey"
+      >
+        <button
+          onClick={[MockFunction]}
+          type="button"
+        >
+          AC
+        </button>
+      </td>
+      <td
+        className="calculator__button__grey"
+      >
+        <button
+          onClick={[MockFunction]}
+          type="button"
+        >
+          +/-
+        </button>
+      </td>
+      <td
+        className="calculator__button__grey"
+      >
+        <button
+          onClick={[MockFunction]}
+          type="button"
+        >
+          %
+        </button>
+      </td>
+      <td
+        className="calculator__button__orange"
+      >
+        <button
+          onClick={[MockFunction]}
+          type="button"
+        >
+          ÷
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

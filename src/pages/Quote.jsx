@@ -6,8 +6,8 @@ const axios = require('axios');
 function Quote() {
   const [quote, setQuote] = useState('');
 
-  useEffect(() => {
-    axios.get('https://random-math-quote-api.herokuapp.com/')
+  useEffect(async () => {
+    await axios.get('https://random-math-quote-api.herokuapp.com/')
       .then((response) => setQuote(response.data));
   }, []);
 

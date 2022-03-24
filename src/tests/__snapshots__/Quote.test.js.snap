@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there are no items 1`] = `
+<div
+  className="Quote"
+>
+  <h2
+    className="Quote__quote"
+  />
+  <h3
+    className="Quote__author"
+  />
+</div>
+`;
