@@ -13,9 +13,9 @@
 
 ## Live Demo (if available)
 
-[GitHub Pages](https://estebanmual.github.io/Math-magicians/build)
-[Netlify](https://venerable-nougat-9c6ced.netlify.app)
-[Heroku](https://math-magicians-esteban.herokuapp.com/)
+[GitHub Pages](https://estebanmual.github.io/Math-magicians/build) <br>
+[Netlify](https://venerable-nougat-9c6ced.netlify.app) <br>
+[Heroku](https://math-magicians-esteban.herokuapp.com/) <br>
 
 
 ## Authors
